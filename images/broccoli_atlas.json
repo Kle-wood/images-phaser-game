@@ -1,0 +1,216 @@
+{
+    "frames": [
+        {
+            "filename": "broccoli_idle0",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_idle1",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 34,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_idle2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 1,
+                "y": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_idle3",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 34,
+                "y": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_down0",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 67,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_down1",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 67,
+                "y": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_left0",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 1,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_left1",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 34,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_left2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 67,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_left3",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 100,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_right0",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 100,
+                "y": 34
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_right1",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 100,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_right2",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 1,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_right3",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 34,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_up0",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 67,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "broccoli_up1",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 100,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

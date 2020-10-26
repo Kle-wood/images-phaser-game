@@ -1,0 +1,104 @@
+{
+    "anims": [
+        {
+            "key": "broccoli_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_down0"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_down1"
+                }
+            ]
+        },
+        {
+            "key": "walk_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 7,
+            "frames": [
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_up0"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_up1"
+                }
+            ]
+        },
+        {
+            "key": "broccoli_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_left0"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_left1"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_left2"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_left3"
+                }
+            ]
+        },
+        {
+            "key": "broccoli_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_right1"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_right2"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_right3"
+                }
+            ]
+        },
+        {
+            "key": "broccoli_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_idle0"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_idle1"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_idle2"
+                },
+                {
+                    "key": "broccoli",
+                    "frame": "broccoli_idle3"
+                }
+            ]
+        }
+    ]
+}
